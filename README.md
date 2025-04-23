@@ -54,12 +54,3 @@ This project analyzes **Airline Data** to uncover key business insights and tren
 
 ---
 
-## 💡 **Next Steps**
-- Enhance the project by **adding more visualizations** (e.g., predictive trends).  
-- Include **additional datasets** to create a more comprehensive analysis.  
-- Share the repository link with potential recruiters.  
-
----
-
-👩‍💻 **Author:** Megha Shukla  
-🌟 **GitHub:** [mshukla94](https://github.com/mshukla94)  
